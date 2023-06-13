@@ -1,4 +1,5 @@
-// °í¾çÀÌ
+// 10171ë²ˆ : ê³ ì–‘ì´
+// ì£¼ì†Œ : https://www.acmicpc.net/problem/10171
 
 #include <iostream>
 

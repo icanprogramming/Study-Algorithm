@@ -1,4 +1,5 @@
-// ³ª¸ÓÁö
+// 10430ë²ˆ : ë‚˜ë¨¸ì§€
+// ì£¼ì†Œ : https://www.acmicpc.net/problem/10430
 
 #include <iostream>
 

@@ -1,4 +1,5 @@
-// »çÄ¢¿¬»ê
+// 10869ë²ˆ : ì‚¬ì¹™ì—°ì‚°
+// ì£¼ì†Œ : https://www.acmicpc.net/problem/10869
 
 #include <iostream>
 

@@ -1,4 +1,5 @@
-// ��
+// 10172번 : 개
+// 주소 : https://www.acmicpc.net/problem/10172
 
 #include <iostream>
 

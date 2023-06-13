@@ -1,4 +1,5 @@
-// �˶� �ð�
+// 2884번 : 알람 시계
+// 주소 : https://www.acmicpc.net/problem/2884
 
 #include <iostream>
 

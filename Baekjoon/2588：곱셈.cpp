@@ -1,4 +1,5 @@
-// °ö¼À
+// 2588ë²ˆ : ê³±ì…ˆ
+// ì£¼ì†Œ : https://www.acmicpc.net/problem/2588
 
 #include <iostream>
 

@@ -1,4 +1,5 @@
-// A¡¿B
+// 1001ë²ˆ : A-B
+// ì£¼ì†Œ : https://www.acmicpc.net/problem/1001
 
 #include <iostream>
 
@@ -9,5 +10,5 @@ int main()
 	int A = 0, B = 0;
 	cin >> A >> B;
 
-	cout << A * B;
+	cout << A - B;
 }

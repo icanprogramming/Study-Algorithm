@@ -1,4 +1,5 @@
-// ╣н ╪Ж ╨Я╠Ёго╠Б
+// 1330К╡┬ : К▒░ Л┬≤ К╧└Й╣░М∙≤Й╦╟
+// Лё╪Л├▄ : https://www.acmicpc.net/problem/1330
 
 #include <iostream>
 

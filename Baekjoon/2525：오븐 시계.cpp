@@ -1,4 +1,5 @@
-// ¿Àºì ½Ã°è
+// 2525ë²ˆ : ì˜¤ë¸ ì‹œê³„
+// ì£¼ì†Œ : https://www.acmicpc.net/problem/2525
 
 #include <iostream>
 

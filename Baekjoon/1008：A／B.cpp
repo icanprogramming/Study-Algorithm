@@ -1,4 +1,5 @@
-// A/B
+// 1008번 : A/B
+// 주소 : https://www.acmicpc.net/problem/1008
 
 #include <iostream>
 

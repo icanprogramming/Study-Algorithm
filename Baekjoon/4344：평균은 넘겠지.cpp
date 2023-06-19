@@ -1,3 +1,6 @@
+// 4344번 : 평균은 넘겠지
+// 주소 : https://www.acmicpc.net/problem/4344
+
 #include <iostream>
 #include <cmath>
 
